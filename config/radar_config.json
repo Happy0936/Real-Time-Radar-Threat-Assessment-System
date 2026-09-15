@@ -1,0 +1,8 @@
+{
+    "radar_range": 3000.0,
+    "noise_std_dev": 15.0,
+    "processing_cycles": 10,
+    "high_threat_distance": 1000.0,
+    "high_threat_velocity": 80.0,
+    "medium_threat_distance": 2000.0
+}

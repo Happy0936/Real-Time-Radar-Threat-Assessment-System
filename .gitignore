@@ -1,0 +1,8 @@
+build/
+*.exe
+*.o
+*.obj
+.vscode/
+__pycache__/
+*.pyc
+data/radar_log.csv
